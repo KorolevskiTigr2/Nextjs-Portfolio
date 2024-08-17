@@ -10,7 +10,13 @@ const Navbar = () => {
             <span className="w-8 h-4 rounded bg-white text-black flex items-center justify-center">.dev</span>
             </Link>
         </div>
-        <div className="">2</div>
+        <div className="">
+            <button className="w-10 h-8 flex flex-col justify-between">
+                <div className="w-10 h-1 bg-black rounded "></div>
+                <div className="w-10 h-1 bg-black rounded "></div>
+                <div className="w-10 h-1 bg-black rounded "></div>
+            </button>
+        </div>
      </div>
    )
  }
