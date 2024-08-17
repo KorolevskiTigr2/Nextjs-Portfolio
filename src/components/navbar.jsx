@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="">
             <Link href="/" className="text-sm rounded-md bg-black px-1 font-semibold flex items-center justify-center">
             <span className="text-white mr-1">Aliaksandr</span>
-            <span className="w-12 h-8 rounded bg-white text-black flex items-center justify-center">.dev</span>
+            <span className="w-8 h-4 rounded bg-white text-black flex items-center justify-center">.dev</span>
             </Link>
         </div>
         <div className="">2</div>
